@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # From https://github.com/nathan-osman/CXX11-CMake-Macros
 
 # Copyright (c) 2013 Nathan Osman

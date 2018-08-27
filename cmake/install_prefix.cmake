@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # -------------------------------------------------------------------------------
 # Defines the prefix for the installation path and link policies
 # NOTE: This file has to be inlcuded before defining anything else

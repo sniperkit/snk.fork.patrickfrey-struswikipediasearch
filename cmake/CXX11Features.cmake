@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Checks for C++11 features
 #  CXX11_FEATURE_LIST - a list containing all supported features
 #  HAS_CXX11_AUTO               - auto keyword

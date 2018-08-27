@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ------------------------------------------------------------------------------
 # Defines some standard targets not directly supported by cmake
 # ------------------------------------------------------------------------------

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # base on http://thomasfischer.biz/find-out-the-linux-distribution-and-version-in-cmake/
 # adapted for systemd's /etc/os-release and native Windows
 

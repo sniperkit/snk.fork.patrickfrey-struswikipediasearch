@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ----------------------------------------------------------------
 # Defines a function to locate a strus related package
 # ----------------------------------------------------------------

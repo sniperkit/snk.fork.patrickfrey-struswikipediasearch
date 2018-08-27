@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include( ${CMAKE_MODULE_PATH}/find_cppcheck.cmake )
 
 file( GLOB_RECURSE MAIN_SOURCE_FILES ${PROJECT_SOURCE_DIR}/src/ *.cpp *.hpp )

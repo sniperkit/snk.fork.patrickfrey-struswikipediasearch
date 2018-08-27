@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(APPLE)
    set( CMAKE_MACOSX_RPATH ON)
    set( CMAKE_BUILD_WITH_INSTALL_RPATH FALSE )

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------------------------------------------------------------------------
 # Defines what cmake should report when configuring the build
 # ---------------------------------------------------------------------------

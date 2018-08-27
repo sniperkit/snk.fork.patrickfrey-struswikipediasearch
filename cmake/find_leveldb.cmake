@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # from https://github.com/justmoon/bzing/blob/master/cmake/FindLevelDB.cmake, slightly adapted
 
 find_path(LevelDB_INCLUDE_PATH NAMES leveldb/db.h HINTS "${CMAKE_INSTALL_PREFIX}/include/strus")

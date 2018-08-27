@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(CheckHasModule Module)
   find_package(${Module} QUIET)
   if(NOT DEFINED ${Module}_DIR)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # -----------------------------------------------------------------------------------------------
 # Defines the flags for compiler and linker and some build environment settings
 # -----------------------------------------------------------------------------------------------

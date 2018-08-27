@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # based on http://agateau.com/2009/cmake-and-make-dist-the-simple-version/
 # adapted for various compressors
 

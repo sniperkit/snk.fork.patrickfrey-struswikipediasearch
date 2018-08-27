@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(Boost_USE_MULTITHREADED ON)
 set(BOOST_INCLUDEDIR "${CMAKE_INSTALL_PREFIX}/include/strus")
 set(BOOST_LIBRARYDIR "${CMAKE_INSTALL_PREFIX}/${LIB_INSTALL_DIR}/strus")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_minimum_required( VERSION 2.8 FATAL_ERROR )
 
 find_program( CPPCHECK NAMES  "cppcheck" )
